@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "IPTestTask": {
+      "commandName": "Project",
+      "commandLineArgs": "--time-start 14.03.1900 --time-end 14.03.3000 --file-log C:\\input.txt --file-output output.txt --address-mask 32"
+    }
+  }
+}
